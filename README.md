@@ -1,19 +1,13 @@
-# p8_6j_appbar
+(![image](https://github.com/jctorres10/JorgiDrawer/assets/143548160/c3aa9b50-ad72-4d3e-a6b5-0ba87575edfa)
+)
+https://codesinsider.com/flutter-appbar-example-tutorial/
 
-A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+https://api.flutter.dev/flutter/material/AppBar-class.html
 
-A few resources to get you started if this is your first Flutter project:
+https://youtu.be/U_Yiw4tjeQw?si=EKyjx60q-Dxi3_fx
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+https://blog.logrocket.com/flutter-appbar-tutorial/
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/WOvj84xq_fc?si=3nPvltQnE6WFvDqd
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
